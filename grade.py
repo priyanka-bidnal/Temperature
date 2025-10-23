@@ -15,7 +15,5 @@ elif average >= 40:
     grade = "D"
 else:
     grade = "Fail"
-
 print(f"Average Marks: {average}")
-
 print(f"Grade: {grade}")
